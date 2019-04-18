@@ -7,7 +7,7 @@ import org.camunda.bpm.extension.process_test_coverage.junit.rules.TestCoverageP
 import org.junit.*;
 
 import static org.camunda.bpm.engine.test.assertions.ProcessEngineTests.*;
-import static org.junit.Assert.*;
+import static org.assertj.core.api.Assertions.*;
 
 /**
  * Test case starting an in-memory database-backed Process Engine.
