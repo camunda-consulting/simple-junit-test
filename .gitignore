@@ -24,3 +24,7 @@ hs_err_pid*
 /simple-junit-test.iml
 /.idea/
 /target/
+
+.classpath
+.project
+.settings/
